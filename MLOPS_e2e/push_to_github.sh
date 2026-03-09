@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 
 # Use PAT for authentication (replace with your token - or use GitHub CLI: gh auth login)
 git remote remove origin 2>/dev/null || true
-git remote add origin "https://Sid245439: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@github.com/Sid245439/cats_dogs_classification_mlops.git"
+git remote add origin "hgive github path cats_dogs_classification_mlops.git"
 
 git add .
 git status
